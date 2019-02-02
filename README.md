@@ -5,7 +5,7 @@ AWS区域信息记录
 
 # AWS中国区域传输费用图解
 <br>
-在AWS中国宁夏区在传输中可能产生的费用梳理
+在AWS中国宁夏区在网络传输中可能产生的费用梳理
 <br>更新时间: 2019/02/02
 
 
@@ -19,7 +19,7 @@ AWS区域信息记录
 # 项目说明
 
 
-# 在AWS宁夏区域传输费图解 明细
+# 在AWS宁夏区域传输费用图解 明细
 <img src="https://github.com/Anniegaosuzhen/aws_region_price/blob/master/%E5%AE%81%E5%A4%8F%E6%B5%81%E9%87%8F%E8%B4%B9%E7%94%A820190202.png" />
 
 # 总结：
