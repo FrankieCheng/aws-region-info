@@ -1,9 +1,9 @@
-# AWS China NingXia Region Info
+# AWS中国区域信息
 AWS区域信息记录
  <br>
 
 
-# AWS China NingXia Region Transfer Charges Diagram
+# AWS中国区域传输费用图解
 <br>
 在AWS中国宁夏区在传输中可能产生的费用梳理
 <br>更新时间: 2019/02/02
