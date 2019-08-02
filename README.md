@@ -20,7 +20,7 @@ AWS区域信息记录
 
 
 # 在AWS宁夏区域传输费用图解 明细
-<img src="https://github.com/nwcdlabs/aws-region-info/blob/master/%E5%AE%81%E5%A4%8F%E6%B5%81%E9%87%8F%E8%B4%B9%E7%94%A820190202.png" />
+<img src="https://github.com/nwcdlabs/aws-region-info/blob/master/%E4%B8%AD%E5%9B%BD%E5%8C%BA%E5%9F%9F%E4%BC%A0%E8%BE%93%E8%B4%B9%E7%94%A8%E5%9B%BE%E8%A7%A320190802.png" />
 # 在中国区域CDN费用组成总结
 <img src="https://github.com/nwcdlabs/aws-region-info/blob/master/%E5%AE%81%E5%A4%8F%E6%B5%81%E9%87%8F%E8%B4%B9%E7%94%A820190202.png" />
 
