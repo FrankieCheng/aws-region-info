@@ -25,7 +25,7 @@ AWS区域信息记录
 <img src="https://github.com/nwcdlabs/aws-region-info/blob/master/CDN%E8%B4%B9%E7%94%A8%E7%BB%84%E6%88%90%E6%80%BB%E7%BB%93.png" />
 
 # 总结：
- <br>1，传入费用不收费 
+ <br>1，传入费用不收费  1
  <br>2，所有出站就是从AWS服务到Internet的费用：直接或者VPN到公网) ¥0.93/GB;经过CloudFront到公网¥ 0.30866/GB;经过DX到公网 ¥ 0.28/GB;
  <br>3，区域间传输有费用 ¥0.6003/GB
  <br>4，一个region的不同VPC之间有费用¥0.067/GB;不同可用区间公有子网或者私有子网之间的传输有费用¥0.067/GB;同一个子网内使用公网IP或者弹性IP传入传出都有费用¥0.067/GB;
